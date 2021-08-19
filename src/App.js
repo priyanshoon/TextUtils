@@ -8,7 +8,6 @@ function App() {
       <Navbar title="TextUtils" about="About TextUtils" />
       <div className="container">
         <TextForm heading="Enter Your Text To Analyze!" />
-        {/* <About/> */}
       </div>
     </>
   );
